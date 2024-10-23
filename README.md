@@ -1,8 +1,4 @@
-# challenge-parametres
-Le but de ce devoir est de déterminer de manière pratique combien de paramètres une fonction peut accepter avant de provoquer une erreur ou un comportement inattendu. Vous devez écrire une fonction qui accepte plusieurs paramètres, puis augmenter progressivement leur nombre jusqu'à ce qu'une limite soit atteinte. 
-
-Environnement de Test
-IDE : Code::Blocks
-Système d'exploitation : Windows 10
-Compilateur :  MinGW 64
-Le test consiste à appeler une fonction avec un nombre croissant de paramètres dans une boucle infinie. La fonction est définie pour accepter exactement 10 paramètres
+Le but de cet atelier est de creer une classe Voiture avec les caracteristiques d'une voiture ainsi que les comportements associes.
+Apres avoir creer la classe, les constructeurs, les methodes et le destructeurs, j'ai mis dans la fonction Main une instance de cette classe.
+Cette intance qui est "maVoiture" est definie comme une lamborghini aventador!!!
+Et en executant le code nous pouvons constater les actions des differentes methodes.
